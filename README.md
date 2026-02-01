@@ -141,7 +141,8 @@ All services were configured with appropriate **Identity and Access Management (
 - **Power BI** connects to **Synapse Serverless SQL**
 - Interactive dashboards are built on **Gold layer datasets**
 
-📷 *Insert Power BI dashboard screenshot here*
+<img width="1912" height="1016" alt="image" src="https://github.com/user-attachments/assets/344beb40-40d5-42d5-8d57-56365c9ff6f1" />
+
 
 ---
 
